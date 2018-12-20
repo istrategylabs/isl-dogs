@@ -11,3 +11,5 @@ app.get('/', function(req, res) {
 });
 
 app.listen(port);
+
+console.log('The app is now running! Open http://localhost:' + port + ' to see it in action.');
