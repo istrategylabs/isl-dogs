@@ -15,10 +15,10 @@ Beyond that, the client (us) has some features for you to implement. Please work
     - Creating a horizontally scrolling, single-row layout
     - Making the photos responsive to screen size
 2. **Other types of dogs** &mdash; The [Dog API](https://dog.ceo/dog-api/) also has endpoints for other types of dogs (i.e. Chihuahua, Boxer, Terrier). Implement a way to update the view so the user can choose whether to view all dogs or specific types.
-3. **Load more dogs** &mdash; The site is hard-coded to show 10 random dogs on page load. Implement a way for the user to load more (and perhaps specificy how many they would like to see).
+3. **Load more dogs** &mdash; The site is hard-coded to show 10 random dogs on page load. Implement a way for the user to load more (and perhaps specify how many they would like to see).
 4. **Accessibility** &mdash; The experience of this site could be better for users with different devices and abilities. Improve the site's accessibility.
 5. **`Like` and `dislike` dogs** &mdash; Implement a way for a user to `like` or `dislike` a dog and display this visually. It does not have to persist (i.e. in cookies or other storage).
-6. **Animations** &mdash; Along with other features, implement animations for actions such as loading content from the API or liking/disliking.
+6. **Animations** &mdash; Along with other features, implement animations for actions such as loading content from the API or liking/disliking. (Design skills aren't required for this position, but we'd love to see what you come up with...)
 7. **Sharing** &mdash; Implement a way for a user to share a dog (to the network(s)) of your choosing, as well as share the entire site.
 
 ## Installation
