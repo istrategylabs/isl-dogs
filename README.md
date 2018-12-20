@@ -23,4 +23,26 @@ Beyond that, the client (us) has some features for you to implement. Please work
 
 ## Installation
 
-Coming soon...
+Clone this repo, `cd` into the directory, and then:
+```
+npm install
+npm run start
+```
+^^ _Note:_ The app is a very simple Express.js back-end. No knowledge of Express is required.
+
+Once you run the above scripts, visit `http://localhost:3000` in the browser of your choosing to see the site running locally.
+
+The main files you'll be working with are:
+```
+index.html
+static/style.css
+script.js
+```
+
+Outside of Google Fonts, there are no external dependencies. We encourage you to keep it that way and stick to vanilla JS and CSS! If you decide to add a library or framework, please make note of what it is and why you're using it.
+
+## Finishing Up
+
+Commit your changes back to this repo, and send us an email when you're finished. Edit `NOTES.md` and describe the work you did (which features you implemented), and anything else you want us to know about your thought process and general strategy.
+
+Thank you for reading this far, thank you for your interest in this position, and thank you again for your time! We are so excited to see what you come up with 🌱.
