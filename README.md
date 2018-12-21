@@ -29,7 +29,7 @@ Clone this repo, `cd` into the directory, and then:
 npm install
 npm run start
 ```
-^^ _Note:_ The app is a very simple Express.js back-end. No knowledge of Express is required.
+^^ _Note:_ The app is a very simple Express.js back-end. No knowledge of Express is required, but you do need to install it. _If you have any questions or issues with the installation process, please let us know right away! We do not want any environment issues to get in the way of the challenge._
 
 Once you run the above commands, visit `http://localhost:3000` in the browser of your choosing to see the site running locally.
 
@@ -39,6 +39,8 @@ index.html
 static/style.css
 script.js
 ```
+
+When you make changes to any of these files, you should refresh the browser to see them.
 
 Outside of Google Fonts, there are no external dependencies. We encourage you to keep it that way and stick to vanilla JS and CSS! If you decide to add a library or framework, please make note of what it is and why you're using it.
 
