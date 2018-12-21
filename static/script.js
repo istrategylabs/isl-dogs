@@ -11,8 +11,8 @@ fetch(apiUrl).then(r => r.json()).then(data => {
 
     console.log(data);
 
-    // Per API documentation, the `message` key
-    // should have an array of image URLs
+    // Per API documentation: https://dog.ceo/dog-api/documentation/random, 
+    // the `message` key should have an array of image URLs
     const { message } = data;
 
     // Loop over the image URLs and create an <img>
