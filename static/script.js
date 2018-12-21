@@ -1,3 +1,9 @@
+/**
+ * Feel free to use the any of the latest ES6+ features you like
+ * in this file -- we're not worried about browser compatibility
+ * issues in this challenge.
+ */
+
 const apiUrl = 'https://dog.ceo/api/breeds/image/random/10';
 
 // Use the Fetch API to get data from this URL
