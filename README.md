@@ -8,7 +8,7 @@ This is a **brief but open-ended** code challenge meant to get a better sense of
 
 We'd like to build a site that uses the [Dog API](https://dog.ceo/dog-api/) to fetch (ha!) and display photos of dogs. It should also allow the user to filter dogs by type (i.e. Chihuahua, Boxer, Terrier) &mdash; you should use the Dog API's [JSON endpoint](https://dog.ceo/dog-api/documentation/) to get the data for the list in order to display it.
 
-### Requirements
+## Requirements
 
 1. On page load, make a request to the list endpoint and populate a dropdown with the results of this data.
    - ** NOTE:** Because of requirement 4, this does **not** need to be a native `<select>` element. However, you should keep in mind accessibility! (Keyboard navigation, ARIA tags, etc.)
