@@ -37,7 +37,7 @@ script.js
 
 When you make changes to any of these files, you should refresh the browser to see them.
 
-Outside of Google Fonts, there are no external dependencies. We encourage you to keep it that way and stick to vanilla JS and CSS! If you decide to add a library or framework, please make note of what it is and why you're using it.
+There are no external dependencies. We encourage you to keep it that way and stick to vanilla JS and CSS! If you decide to add a library or framework, please make note of what it is and why you're using it.
 
 ## Finishing Up
 
