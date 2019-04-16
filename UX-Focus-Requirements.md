@@ -8,7 +8,7 @@ Most of your work will be in `index.html` and `static/style.css`. You might also
 </div>
 ```
 
-Any markup you put inside this `<div>` will automatically be used as a template for every photo from the API (the photos should appear on page load). You can add any markup inside this template that you like, and add styles in `static/style.css`.
+Any markup you put inside this `<div>` will automatically be used as a template for every photo from the API (the photos should appear on page load, and the string `{{ url }}` will always be replaced by the image URL). You can add any markup inside this template that you like, and add styles in `static/style.css`.
 
 1. Each photo should be accompanied by the following UI elements:
    - A button to "like" the dog
