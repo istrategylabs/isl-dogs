@@ -1,5 +1,7 @@
 # JavaScript Focus Requirements
 
+Most of your work will be in `static/script.js`. You will also probably need to edit the markup in `index.html` and style in `static/style.css`. The requirements for this assignment are:
+
 1. On page load, make a request to the [list endpoint](https://dog.ceo/dog-api/documentation/) and populate a dropdown with the results of this data.
    - ** NOTE:** Because of requirement 4, this does **not** need to be a native `<select>` element. However, you should keep in mind accessibility! (Keyboard navigation, ARIA tags, etc.)
 2. Whenever the user selects a dog type, 10 dogs of that type appear. (To be clear, we mean _photos_ of random dogs, not dogs themselves. The tech just isn't there yet.)

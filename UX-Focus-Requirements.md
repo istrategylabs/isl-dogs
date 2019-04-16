@@ -1,6 +1,6 @@
 # UX Focus Requirements
 
-First, paste this code into the `<main>` element:
+Most of your work will be in `index.html` and `static/style.css`. You might also write some JavaScript in `static/script.js`. To begin, paste this code into the `<main>` element:
 
 ```html
 <div data-template>
