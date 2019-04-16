@@ -41,6 +41,6 @@ There are no external dependencies. We encourage you to keep it that way and sti
 
 ## Finishing Up
 
-Edit `NOTES.md` and describe the work you did (which features you implemented), and anything else you want us to know about your thought process and general strategy. Then, once you're all done, ZIP up the directory, and send it to us as an attachment in an email.
+Edit `NOTES.md` and describe the work you did, and anything else you want us to know about your thought process and general strategy. Then, once you're all done, ZIP up the directory, and send it to us as an attachment in an email.
 
 Thank you for reading this far, thank you for your interest in this position, and thank you again for your time! We are so excited to see what you come up with 🌱.
