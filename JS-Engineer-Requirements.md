@@ -8,4 +8,4 @@
 
 Beyond all of these requirements, the page should look beautiful &mdash; or, barring that, should adhere to best practices around typography, hierarchy, color palette, and layout. While you don't have to optimize for a mobile/touch device, the page should be responsive and scale to any screen size.
 
-[Back to README](README.md)
+[Back to README](README.md#installation)
