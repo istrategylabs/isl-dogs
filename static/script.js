@@ -3,7 +3,3 @@
  * in this file -- we're not worried about browser compatibility
  * issues in this challenge.
  */
-
-const search = document.getElementById("search");
-const choose = document.getElementById("choose");
-const content = document.getElementById("content");

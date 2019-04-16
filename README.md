@@ -6,7 +6,7 @@ This is a **brief but open-ended** code challenge meant to get a better sense of
 
 ## Overview
 
-We'd like to build a site that uses the [Dog API](https://dog.ceo/dog-api/) to fetch (ha!) and display photos of dogs. It should also allow the user to filter dogs by type (i.e. Chihuahua, Boxer, Terrier) &mdash; you should use the Dog API's [JSON endpoint](https://dog.ceo/dog-api/documentation/) to get the data for the list in order to display it.
+We'd like to build a site that uses the [Dog API](https://dog.ceo/dog-api/) to fetch (ha!) and display photos of dogs. [We like dogs](https://www.instagram.com/p/BVrscN-g-V_/) at ISL.
 
 There are two sets of requirements, and you should have been told earlier which one is your assignment. If you take on any of the requirements from the other set, please make note of it (see "Finishing Up" below).
 

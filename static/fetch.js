@@ -1,0 +1,1 @@
+!function(){const e=document.querySelector("[data-template]");if(!e)return;const t=e.parentElement;t.removeChild(e);fetch("https://dog.ceo/api/breeds/image/random/24").then(e=>e.json()).then(({message:n})=>{n.forEach(n=>{const o=document.createElement("img");o.src=n,o.onload=function(){const o=e.outerHTML.replace(/{{(\s)*url(\s)*}}/g,n);t.innerHTML+=o}})})}();
