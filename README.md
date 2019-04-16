@@ -10,9 +10,9 @@ We'd like to build a site that uses the [Dog API](https://dog.ceo/dog-api/) to f
 
 There are two sets of requirements, and you should have been told earlier which one is your assignment. If you take on any of the requirements from the other set, please make note of it (see "Finishing Up" below).
 
-### [UX Engineer Requirements &rarr;](UX-Engineer-Requirements.md)
+### [UX Focus Requirements &rarr;](UX-Focus-Requirements.md)
 
-### [JavaScript Engineer Requirements &rarr;](JS-Engineer-Requirements.md)
+### [JavaScript Focus Requirements &rarr;](JS-Focus-Requirements.md)
 
 ## Installation
 

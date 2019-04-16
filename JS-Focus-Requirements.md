@@ -1,4 +1,4 @@
-# JavaScript Engineer Requirements
+# JavaScript Focus Requirements
 
 1. On page load, make a request to the [list endpoint](https://dog.ceo/dog-api/documentation/) and populate a dropdown with the results of this data.
    - ** NOTE:** Because of requirement 4, this does **not** need to be a native `<select>` element. However, you should keep in mind accessibility! (Keyboard navigation, ARIA tags, etc.)
